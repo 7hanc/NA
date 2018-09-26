@@ -1,6 +1,6 @@
 # Network-Administration
 
-##申請Let's Encrypt憑證 (FreeBSD/Apache)
+## 申請Let's Encrypt憑證 (FreeBSD/Apache)
 
 **1.	安裝Git指令**
 使用package安裝: `pkg install git`
@@ -19,6 +19,6 @@
 
 * 「--email xxx@xxx.com.tw」請填上你的聯絡信箱
 * 「-w /usr/local/www/tech.idv.tw」是指定你的網站存放的目錄
-* 「-d tech.idv.tw」是指你要申請的網域名稱
+* 「-d tech.idv.tw」是指你要申請的網域名稱   
 
-## Add this header in virtual host zone file to get a+ in ssllab
+* 參考資料: http://www.myhome.net.tw/2016_05/p26.htm
